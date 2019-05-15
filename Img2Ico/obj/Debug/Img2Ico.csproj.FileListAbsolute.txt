@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Img2Ico\Img2Ico\bin\Debug\Img2Ico.exe.config
+C:\Users\user\source\repos\Img2Ico\Img2Ico\bin\Debug\Img2Ico.exe
+C:\Users\user\source\repos\Img2Ico\Img2Ico\bin\Debug\Img2Ico.pdb
+C:\Users\user\source\repos\Img2Ico\Img2Ico\obj\Debug\Img2Ico.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Img2Ico\Img2Ico\obj\Debug\Img2Ico.Form1.resources
+C:\Users\user\source\repos\Img2Ico\Img2Ico\obj\Debug\Img2Ico.Properties.Resources.resources
+C:\Users\user\source\repos\Img2Ico\Img2Ico\obj\Debug\Img2Ico.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Img2Ico\Img2Ico\obj\Debug\Img2Ico.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Img2Ico\Img2Ico\obj\Debug\Img2Ico.exe
+C:\Users\user\source\repos\Img2Ico\Img2Ico\obj\Debug\Img2Ico.pdb
